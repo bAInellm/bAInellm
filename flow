@@ -1,0 +1,16 @@
+1. variables
+a. language word separators
+b. language write direction
+c.
+
+2. constants
+b. predicts next character of next word
+d. overall, is able to recognise user data and multi-user use
+e. has strong and versatile i/o mechanism ( cli, gui, web, etc. )
+f. as a last resort, it can also understand context of the input text, append that context
+using as little storage as possible, and as unrecognizable as possible (for anonymity of chats), and the context affects the next suggested streams of characters
+
+
+3. functions
+
+4. classes
