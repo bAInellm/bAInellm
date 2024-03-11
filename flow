@@ -13,4 +13,9 @@ using as little storage as possible, and as unrecognizable as possible (for anon
 
 3. functions
 
+1. delimiters for each character, word and sentence.
+2. strong regex understands the relationship between characters, the orders, popular pairs
+3. function to interact with dataset
+4. function to interact with dataset storage
+
 4. classes
